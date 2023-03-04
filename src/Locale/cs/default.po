@@ -2440,7 +2440,7 @@ msgstr "Přisvojovat si věty"
 #. menu item on the top (verb)
 #: github.com/Tatoeba/tatoeba2/tree/dev/src/Template/Element/top_menu.ctp#L103
 msgid "Discuss sentences"
-msgstr "Diskutovat o&nbsp;větách"
+msgstr "Diskutovat o větách"
 
 #. menu item on the top (verb)
 #: github.com/Tatoeba/tatoeba2/tree/dev/src/Template/Element/top_menu.ctp#L108
