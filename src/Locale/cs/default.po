@@ -4450,7 +4450,7 @@ msgstr "Příspěvky"
 
 #: github.com/Tatoeba/tatoeba2/tree/dev/src/Template/User/profile.ctp#L109
 msgid "Show latest activity"
-msgstr "Zobrazit činnost v&nbsp;poslední době"
+msgstr "Zobrazit činnost v poslední době"
 
 #: github.com/Tatoeba/tatoeba2/tree/dev/src/Template/User/profile.ctp#L131
 msgid "Email notifications are ENABLED."
