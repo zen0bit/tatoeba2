@@ -67,7 +67,7 @@ msgstr "Věty č.{firstNumber} a č.{secondNumber} jsou teď navzájem přímým
 msgid ""
 "Sentences #{firstNumber} and #{secondNumber} are no longer direct "
 "translations of each other."
-msgstr "Věty č. {firstNumber} a č. {secondNumber} už nejsou navzájem přímými překlady."
+msgstr "Věty č.{firstNumber} a č.{secondNumber} už nejsou navzájem přímými překlady."
 
 #: github.com/Tatoeba/tatoeba2/tree/dev/src/Controller/LinksController.php#L163
 msgid ""
